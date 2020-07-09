@@ -28,7 +28,11 @@
             <materialDesign:PackIcon Kind="close" />
         </Button>
         <materialDesign:Card Margin="10,53,10,10" Grid.RowSpan="2">
-            <Button Content="Agregar" Height="Auto" Margin="505,10,108,315" Background="#82d4cd" BorderBrush="#FF82D4CD"/>
+            <Grid>
+                <Button Content="Agregar" Height="Auto" Margin="372,10,241,315" Background="#82d4cd" BorderBrush="#FF82D4CD"/>
+                <Button Content="Editar" Height="Auto" Margin="483,10,130,315" Background="#82d4cd" BorderBrush="#FF82D4CD"/>
+                <Button Content="Borrar" Height="Auto" Margin="594,10,19,315" Background="#82d4cd" BorderBrush="#FF82D4CD"/>
+            </Grid>
         </materialDesign:Card>
     </Grid>
 </Window>
