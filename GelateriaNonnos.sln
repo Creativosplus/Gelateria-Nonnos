@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GelateriaNonnos", "GelateriaNonnos.csproj", "{7018A3FE-7F3F-432F-9091-2E49A2C5A424}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "..\CapaDatos\CapaDatos.csproj", "{F934AA87-3FCC-499B-AE29-FE97C56C7473}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "..\CapaLogica\CapaLogica.csproj", "{365CDF1F-83BA-444B-BBAF-D866188E2A2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7018A3FE-7F3F-432F-9091-2E49A2C5A424}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7018A3FE-7F3F-432F-9091-2E49A2C5A424}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7018A3FE-7F3F-432F-9091-2E49A2C5A424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F934AA87-3FCC-499B-AE29-FE97C56C7473}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F934AA87-3FCC-499B-AE29-FE97C56C7473}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F934AA87-3FCC-499B-AE29-FE97C56C7473}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F934AA87-3FCC-499B-AE29-FE97C56C7473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365CDF1F-83BA-444B-BBAF-D866188E2A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365CDF1F-83BA-444B-BBAF-D866188E2A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365CDF1F-83BA-444B-BBAF-D866188E2A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365CDF1F-83BA-444B-BBAF-D866188E2A2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
