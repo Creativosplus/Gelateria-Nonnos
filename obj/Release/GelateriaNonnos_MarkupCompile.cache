@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\jorge\Documents\GitHub\Gelateria-Nonnos\obj\Debug\
+C:\Users\jorge\Documents\GitHub\Gelateria-Nonnos\obj\Release\
 GelateriaNonnos
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\jorge\Documents\GitHub\Gelateria-Nonnos\App.xaml
 21796801055
 
@@ -16,5 +16,5 @@ C:\Users\jorge\Documents\GitHub\Gelateria-Nonnos\App.xaml
 15-2028005460
 Inicio.xaml;MainWindow.xaml;
 
-False
+True
 
